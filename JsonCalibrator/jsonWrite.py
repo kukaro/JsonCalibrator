@@ -1,0 +1,6 @@
+f = open('전국금연구역표준데이터.json', 'r', encoding='utf-8')
+data = f.read()
+f.close()
+f = open('전국금연구역표준데이터.json', 'w', encoding='utf-8')
+f.write(data.replace(':연인', ':"연인"'))
+f.close()
