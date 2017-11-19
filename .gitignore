@@ -6,31 +6,31 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-/JsonCalibrator/.idea/**/workspace.xml
-/JsonCalibrator/.idea/**/tasks.xml
-/JsonCalibrator/.idea/dictionaries
+JsonCalibrator/.idea/**/workspace.xml
+JsonCalibrator/.idea/**/tasks.xml
+JsonCalibrator/.idea/dictionaries
 
 # Sensitive or high-churn files:
-/JsonCalibrator/.idea/**/dataSources/
-/JsonCalibrator/.idea/**/dataSources.ids
-/JsonCalibrator/.idea/**/dataSources.xml
-/JsonCalibrator/.idea/**/dataSources.local.xml
-/JsonCalibrator/.idea/**/sqlDataSources.xml
-/JsonCalibrator/.idea/**/dynamic.xml
-/JsonCalibrator/.idea/**/uiDesigner.xml
+JsonCalibrator/.idea/**/dataSources/
+JsonCalibrator/.idea/**/dataSources.ids
+JsonCalibrator/.idea/**/dataSources.xml
+JsonCalibrator/.idea/**/dataSources.local.xml
+JsonCalibrator/.idea/**/sqlDataSources.xml
+JsonCalibrator/.idea/**/dynamic.xml
+JsonCalibrator/.idea/**/uiDesigner.xml
 
 # Gradle:
-/JsonCalibrator/.idea/**/gradle.xml
-/JsonCalibrator/.idea/**/libraries
+JsonCalibrator/.idea/**/gradle.xml
+JsonCalibrator/.idea/**/libraries
 
 # CMake
-/JsonCalibrator/cmake-build-debug/
+JsonCalibrator/cmake-build-debug/
 
 # Mongo Explorer plugin:
-/JsonCalibrator/.idea/**/mongoSettings.xml
+JsonCalibrator/.idea/**/mongoSettings.xml
 
 ## File-based project format:
-/JsonCalibrator/*.iws
+JsonCalibrator/*.iws
 
 ## Plugin-specific files:
 
@@ -38,13 +38,13 @@
 /out/
 
 # mpeltonen/sbt-idea plugin
-/JsonCalibrator/.idea_modules/
+JsonCalibrator/.idea_modules/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
 
 # Cursive Clojure plugin
-/JsonCalibrator/.idea/replstate.xml
+JsonCalibrator/.idea/replstate.xml
 
 # Ruby plugin and RubyMine
 /.rakeTasks
@@ -64,6 +64,6 @@ fabric.properties
 # *.ipr
 
 # Sonarlint plugin
-/JsonCalibrator/.idea/sonarlint
+JsonCalibrator/.idea/sonarlint
 
 # End of https://www.gitignore.io/api/pycharm
